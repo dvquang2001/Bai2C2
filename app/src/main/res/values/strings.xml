@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bai2C2</string>
+    <string-array name="arrContacts">
+        <item>An</item>
+        <item>Anh</item>
+        <item>Canh</item>
+        <item>Cong</item>
+        <item>Chung</item>
+        <item>Dang</item>
+        <item>Dat</item>
+        <item>Dong</item>
+        <item>Minh</item>
+        <item>Nam</item>
+        <item>Nhan</item>
+        <item>Nguyen</item>
+        <item>Phuong</item>
+        <item>Phong</item>
+        <item>Quang</item>
+        <item>Quyen</item>
+        <item>Quynh</item>
+        <item>Tuan</item>
+        <item>Thuan</item>
+        <item>Trung</item>
+        <item>Vu</item>
+    </string-array>
+</resources>
